@@ -1,4 +1,5 @@
 <?php
+	// teste
 	$niver = new DateTime('23.06.2004');
 	$dataHoje = new DateTime(date('d.m.y'));
 	$diferenca = $dataHoje->diff($niver);
