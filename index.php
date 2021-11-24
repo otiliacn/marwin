@@ -51,4 +51,5 @@
 	echo "<hr>";
 	// funçao date()
 	echo date("d/m/Y");
+	// finalizei o projeto
 ?>
